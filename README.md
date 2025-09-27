@@ -6,5 +6,5 @@
 - 💞️ I’m looking to collaborate on utilizing trading platforms with API to automate trades
 - 📫 How to reach me dioncain04@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Degen cryto trader
+- ⚡ Fun fact: Degen crypto trader
 
