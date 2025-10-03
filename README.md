@@ -1,5 +1,10 @@
-# 💫 About Me<br><br>
-- 👋 Hi, I’m Dion Mascarenhas<br>- 👀 I’m interested in dveloping automated trading systems<br>- 🌱 I’m currently learning BSc Computer Science<br>- 💞️ I’m looking to collaborate on utilizing trading platforms with API to automate trades<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Degen crypto trader<br><br>
+# 💫 About Me
+👋 Hi, I’m Dion Mascarenhas
+👀 I’m interested in dveloping automated trading systems
+🌱 I’m currently learning BSc Computer Science
+💞️ I’m looking to collaborate on utilizing trading platforms with API to automate trades
+😄 Pronouns: he/him
+⚡ Fun fact: Degen crypto trader
 
 
 # 💻 Tech Stack:
@@ -9,11 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DionBTC&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DionBTC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DionBTC&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=DionBTC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
