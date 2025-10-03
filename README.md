@@ -1,5 +1,5 @@
-# 💫 About Me:
-# About Me<br><br>- 👋 Hi, I’m Dion Mascarenhas<br>- 👀 I’m interested in dveloping automated trading systems<br>- 🌱 I’m currently learning BSc Computer Science<br>- 💞️ I’m looking to collaborate on utilizing trading platforms with API to automate trades<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Degen crypto trader<br><br>
+# 💫 About Me<br><br>
+- 👋 Hi, I’m Dion Mascarenhas<br>- 👀 I’m interested in dveloping automated trading systems<br>- 🌱 I’m currently learning BSc Computer Science<br>- 💞️ I’m looking to collaborate on utilizing trading platforms with API to automate trades<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Degen crypto trader<br><br>
 
 
 # 💻 Tech Stack:
